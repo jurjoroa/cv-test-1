@@ -1,0 +1,11 @@
+---
+title: "{{< var name >}}"
+---
+
+# {{< var name >}}
+
+**{{< var headline >}}**
+
+{{< var bio_short >}}
+
+[See full CV →](cv.qmd)
