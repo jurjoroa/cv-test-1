@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jurjoroa.github.io/cv-test-1/cv.html</loc>
-    <lastmod>2026-05-03T06:29:47.206Z</lastmod>
+    <loc>https://jurjoroa.github.io/cv-test-1/conference_presentations.html</loc>
+    <lastmod>2026-05-03T06:45:35.112Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jurjoroa.github.io/cv-test-1/publications.html</loc>
+    <lastmod>2026-05-03T06:45:23.929Z</lastmod>
   </url>
   <url>
     <loc>https://jurjoroa.github.io/cv-test-1/index.html</loc>
     <lastmod>2026-05-03T04:56:43.902Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jurjoroa.github.io/cv-test-1/working_papers.html</loc>
+    <lastmod>2026-05-03T06:45:30.329Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jurjoroa.github.io/cv-test-1/teaching.html</loc>
+    <lastmod>2026-05-03T06:45:50.999Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jurjoroa.github.io/cv-test-1/projects.html</loc>
+    <lastmod>2026-05-03T06:45:44.039Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jurjoroa.github.io/cv-test-1/media.html</loc>
+    <lastmod>2026-05-03T06:46:01.437Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jurjoroa.github.io/cv-test-1/cv.html</loc>
+    <lastmod>2026-05-03T06:46:49.136Z</lastmod>
   </url>
 </urlset>

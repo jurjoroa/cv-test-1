@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "conference_presentations.html",
+    "href": "conference_presentations.html",
+    "title": "Conference Presentations",
+    "section": "",
+    "text": "Poster: A Hierarchical Bayesian Meta-Analytic Helicobacter Pylori (H. pylori) Infection Generator for the U.S. Population. Society for Medical Decision Making (SMDM) 18th Biennial European Conference, 2023, Berlin, Germany.\nPoster: Accurate uncertainty quantification in Bayesian calibration accounting for correlated targets. Society for Medical Decision Making (SMDM) 47th Annual Meeting, 2025, Ann Arbor, USA. Accepted.\nTalk: Hertie Coding Club: A student initiative to promote coding skills. CIVICA Student Association Forum, 2023, Warsaw, Poland."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "van den Berg, D.M.N., Brück, C.C., Nascimento de Lima, P., Alarid-Escudero, F., Hahn, A.I., Lansdorp-Vogelaar, I., & Colorectal Working Group of the Cancer Intervention and Surveillance Modeling Network (CISNET) [incl. Roa, J.] (2026). The best screening test is the one that gets followed up on. Gastroenterology. https://doi.org/10.1053/j.gastro.2026.02.013\nRomanello, M., Walawender, M., Hsu, S.-C., … Roa, J., … Costello, A. (2025). The 2025 report of the Lancet Countdown on health and climate change. The Lancet. https://doi.org/10.1016/S0140-6736(25)01919-1\nTaylor, C.S., McMahon, M.V., Ward, Z.J., Alarid-Escudero, F., Camargo, M.C., Laszkowska, M., Roa, J., & Yeh, J.M. (2024). Birth cohort and age-specific trends in global Helicobacter pylori seroprevalence: A scoping review. The Lancet Regional Health - Americas, 100877. https://doi.org/10.1016/j.lana.2024.100877\nMcMahon, M.V., Taylor, C.S., Ward, Z.J., Alarid-Escudero, F., Camargo, M.C., Laszkowska, M., Roa, J., & Yeh, J.M. (2024). Helicobacter pylori infection in the United States beyond NHANES: a scoping review of seroprevalence estimates by racial and ethnic groups. Lancet Regional Health Americas, 41, 100890. https://doi.org/10.1016/j.lana.2024.100890\nAlarid-Escudero, F., Gracia, V., Luviano, A., Roa, J., Peralta, Y., Reitsma, M.B., Claypool, A.L., Salomon, J.A., Studdert, D.M., Andrews, J.R., & Goldhaber-Fiebert, J.D. (2021). Dependence of COVID-19 Policies on End-of-Year Holiday Contacts in Mexico City: A Modeling Study. MDM Policy & Practice. https://doi.org/10.1177/23814683211049249"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jorge Alberto Roa Contreras",
+    "section": "",
+    "text": "Jorge Alberto Roa Contreras\nSoftware Developer · Data Scientist\nSoftware Developer Associate at Stanford University School of Medicine, building colorectal cancer simulation models for the CISNET program. MSc in Data Science for Public Policy from Hertie School Berlin, with a focus on cost-effectiveness analysis, decision modeling, and reproducible health policy software.\nSee full CV →"
+  },
+  {
+    "objectID": "working_papers.html",
+    "href": "working_papers.html",
+    "title": "Working Papers",
+    "section": "",
+    "text": "Kaufmann, M.B., Roa, J., Yeh, J.M., Goldhaber-Fiebert, J.D., & Alarid-Escudero, F. Modeling the impact of mass testing and eradication strategies of Helicobacter pylori in the United States. The Lancet Regional Health – Americas. Forthcoming.\nRoa, J., Peralta, Y., McMahon, M., Taylor, C., Ward, Z.J., Camargo, M.C., Yeh, J., & Alarid-Escudero, F. Race-specific estimates of the force of infection of Helicobacter pylori using two national seroprevalence surveys in the US: A hierarchical Bayesian catalytic epidemic modeling study. In Preparation.\nManohara, K., Roa, J., Jankin, S., Garcia-Corral, P., et al. (2024). From searches to sneezes: Evaluating digital indicators for allergic rhinitis surveillance in the United Kingdom. In Proceedings of the 2nd International Workshop on Big Data Analytics for Health and Medicine (IEEE BigData 2024), Washington, D.C., USA. Forthcoming."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Cost-Effectiveness Analysis and Decision Modeling in R — Universidad de Chile, School of Public Health\n11/2025 – 12/2025 · Teaching Assistant\nTeaching assistant for the Stanford CEA Chile 2025 intensive course, held at the Universidad de Chile School of Public Health (November 24 – December 5, 2025). Led a session on setting up R for cost-effectiveness analysis, covering environment configuration, package installation, and introductory CEA workflows.\n\n\nQuantitative Methods I — Center for Research and Teaching in Economics\n01/2021 – 07/2021 · Teaching Assistant\nInstructed a weekly two-hour class for undergraduate students covering the theory of statistical methods and practical applications in R.\n\n\nMethods for Public Policy Evaluation — Catholic University of Uruguay\n08/2019 – 07/2020 · Teaching Assistant\nAssisted a course in methods for public policy evaluation for the Winter School in Methods 2020, covering Difference-in-Differences, Matching, Instrumental Variables, etc."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "ggpop: Visualizing Population Data\nR package extending ggplot2 for icon-based population visualizations using geom_pop() and geom_icon_point(), with 2,000+ Font Awesome icons and built-in themes.\nLink\n\n\nDARTH Workgroup\nOfficial website for the Decision Analysis in R for Technologies in Health collaborative, featuring open-source tools, tutorials, and resources for health technology assessment and decision analytic modeling.\n\n\nEthics × Data Science\nTeaching resource platform providing tutorials, case studies, and instructional materials on data science ethics, designed for professional schools and educators across disciplines.\n\n\nHertie Coding Club\nWebsite for the student coding club founded at the Hertie School, offering learning resources, workshops, and event information for a community of 200+ members across R, Python, and other languages.\n\n\nggpop documentation site\nPackage documentation and tutorial site for the ggpop R package, built with pkgdown and hosted via GitHub Pages.\n\n\nStanford CEA Chile 2025\nCourse website for a Stanford University simulation modeling program in collaboration with Chilean institutions, covering cost-effectiveness analysis, decision modeling, and R programming for health policy."
+  },
+  {
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Media & Press",
+    "section": "",
+    "text": "2021 — Homicidios en México: Su evolución en las últimas dos décadas (Policy Brief), Programa de Política de Drogas. Authored with Peralta, Y., Miranda, A., & Alarid-Escudero, A.\n2021 — La tendencia de los homicidios en México durante la pandemia por COVID-19 (Policy Brief), Programa de Política de Drogas. Authored with Peralta, Y. & Alarid-Escudero, A.\nJune 2021 — ¿Qué tan abiertos son los “datos abiertos” de vacunación en México?, Animal Político. Authored with Velázquez, S., Padilla, A., & Alarid-Escudero, F.\nJune 2020 — La geografía de la violencia, Animal Político.\nDecember 2020 — Analizando el indicador estatal covid de Aguascalientes, LJA.mx.\nDecember 2020 — De la corte a las calles, Animal Político.\n2020 — En México hay 148 grupos criminales: CIDE, El Financiero-Bloomberg TV. Interview\nApril 2021 — Operan en México hasta 148 cárteles, Reforma (printed). Interview\nApril 2021 — Análisis de los grupos delictivos en México, Mexican Institute of the Radio. Interview\nJuly 2021 — Los 12 grupos criminales de la era López Obrador, El País.\nMay 2021 — México: A tres semanas de las elecciones, los candidatos son víctimas de la violencia, Radio France International."
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
@@ -42,34 +91,6 @@
     "text": "Certifications\n\nCost-effectiveness and decision modeling using R — Decision Analysis in R for Technologies in Health (DARTH), 2023\nFundamentals of Accelerated Computing with CUDA Python — NVIDIA Deep Learning Institute, 2023\nData Science Summer School — Hertie School, 2022\nDrug Policy, Health and Human Rights — Center for Research and Teaching in Economics, 2021\nIntroduction to R and Spatial Analysis with GIS — Winter School in Methods, Catholic University of Uruguay, 2020"
   },
   {
-    "objectID": "cv.html#publications",
-    "href": "cv.html#publications",
-    "title": "Curriculum Vitae",
-    "section": "Publications",
-    "text": "Publications\n\nvan den Berg, D.M.N., Brück, C.C., Nascimento de Lima, P., Alarid-Escudero, F., Hahn, A.I., Lansdorp-Vogelaar, I., & Colorectal Working Group of the Cancer Intervention and Surveillance Modeling Network (CISNET) [incl. Roa, J.] (2026). The best screening test is the one that gets followed up on. Gastroenterology. https://doi.org/10.1053/j.gastro.2026.02.013\nRomanello, M., Walawender, M., Hsu, S.-C., … Roa, J., … Costello, A. (2025). The 2025 report of the Lancet Countdown on health and climate change. The Lancet. https://doi.org/10.1016/S0140-6736(25)01919-1\nTaylor, C.S., McMahon, M.V., Ward, Z.J., Alarid-Escudero, F., Camargo, M.C., Laszkowska, M., Roa, J., & Yeh, J.M. (2024). Birth cohort and age-specific trends in global Helicobacter pylori seroprevalence: A scoping review. The Lancet Regional Health - Americas, 100877. https://doi.org/10.1016/j.lana.2024.100877\nMcMahon, M.V., Taylor, C.S., Ward, Z.J., Alarid-Escudero, F., Camargo, M.C., Laszkowska, M., Roa, J., & Yeh, J.M. (2024). Helicobacter pylori infection in the United States beyond NHANES: a scoping review of seroprevalence estimates by racial and ethnic groups. Lancet Regional Health Americas, 41, 100890. https://doi.org/10.1016/j.lana.2024.100890\nAlarid-Escudero, F., Gracia, V., Luviano, A., Roa, J., Peralta, Y., Reitsma, M.B., Claypool, A.L., Salomon, J.A., Studdert, D.M., Andrews, J.R., & Goldhaber-Fiebert, J.D. (2021). Dependence of COVID-19 Policies on End-of-Year Holiday Contacts in Mexico City: A Modeling Study. MDM Policy & Practice. https://doi.org/10.1177/23814683211049249"
-  },
-  {
-    "objectID": "cv.html#working-papers",
-    "href": "cv.html#working-papers",
-    "title": "Curriculum Vitae",
-    "section": "Working Papers",
-    "text": "Working Papers\n\nKaufmann, M.B., Roa, J., Yeh, J.M., Goldhaber-Fiebert, J.D., & Alarid-Escudero, F. Modeling the impact of mass testing and eradication strategies of Helicobacter pylori in the United States. The Lancet Regional Health – Americas. Forthcoming.\nRoa, J., Peralta, Y., McMahon, M., Taylor, C., Ward, Z.J., Camargo, M.C., Yeh, J., & Alarid-Escudero, F. Race-specific estimates of the force of infection of Helicobacter pylori using two national seroprevalence surveys in the US: A hierarchical Bayesian catalytic epidemic modeling study. In Preparation.\nManohara, K., Roa, J., Jankin, S., Garcia-Corral, P., et al. (2024). From searches to sneezes: Evaluating digital indicators for allergic rhinitis surveillance in the United Kingdom. In Proceedings of the 2nd International Workshop on Big Data Analytics for Health and Medicine (IEEE BigData 2024), Washington, D.C., USA. Forthcoming."
-  },
-  {
-    "objectID": "cv.html#conference-presentations",
-    "href": "cv.html#conference-presentations",
-    "title": "Curriculum Vitae",
-    "section": "Conference Presentations",
-    "text": "Conference Presentations\n\nPoster: A Hierarchical Bayesian Meta-Analytic Helicobacter Pylori (H. pylori) Infection Generator for the U.S. Population. Society for Medical Decision Making (SMDM) 18th Biennial European Conference, 2023, Berlin, Germany.\nPoster: Accurate uncertainty quantification in Bayesian calibration accounting for correlated targets. Society for Medical Decision Making (SMDM) 47th Annual Meeting, 2025, Ann Arbor, USA. Accepted.\nTalk: Hertie Coding Club: A student initiative to promote coding skills. CIVICA Student Association Forum, 2023, Warsaw, Poland."
-  },
-  {
-    "objectID": "cv.html#projects",
-    "href": "cv.html#projects",
-    "title": "Curriculum Vitae",
-    "section": "Projects",
-    "text": "Projects\n\nggpop: Visualizing Population Data\nR package extending ggplot2 for icon-based population visualizations using geom_pop() and geom_icon_point(), with 2,000+ Font Awesome icons and built-in themes.\nLink\n\n\nDARTH Workgroup\nOfficial website for the Decision Analysis in R for Technologies in Health collaborative, featuring open-source tools, tutorials, and resources for health technology assessment and decision analytic modeling.\n\n\nEthics × Data Science\nTeaching resource platform providing tutorials, case studies, and instructional materials on data science ethics, designed for professional schools and educators across disciplines.\n\n\nHertie Coding Club\nWebsite for the student coding club founded at the Hertie School, offering learning resources, workshops, and event information for a community of 200+ members across R, Python, and other languages.\n\n\nggpop documentation site\nPackage documentation and tutorial site for the ggpop R package, built with pkgdown and hosted via GitHub Pages.\n\n\nStanford CEA Chile 2025\nCourse website for a Stanford University simulation modeling program in collaboration with Chilean institutions, covering cost-effectiveness analysis, decision modeling, and R programming for health policy."
-  },
-  {
     "objectID": "cv.html#awards",
     "href": "cv.html#awards",
     "title": "Curriculum Vitae",
@@ -82,13 +103,6 @@
     "title": "Curriculum Vitae",
     "section": "Hackathons & Competitions",
     "text": "Hackathons & Competitions\n\nDataFest Germany (2023) — Ludwig-Maximilians-Universität (LMU)\nArgonne Leadership Computing Facility (ALCF) Incite Hackathon (2023) — ALCF, NVIDIA, and OpenACC"
-  },
-  {
-    "objectID": "cv.html#teaching",
-    "href": "cv.html#teaching",
-    "title": "Curriculum Vitae",
-    "section": "Teaching",
-    "text": "Teaching\n\nCost-Effectiveness Analysis and Decision Modeling in R — Universidad de Chile, School of Public Health\n11/2025 – 12/2025 · Teaching Assistant\nTeaching assistant for the Stanford CEA Chile 2025 intensive course, held at the Universidad de Chile School of Public Health (November 24 – December 5, 2025). Led a session on setting up R for cost-effectiveness analysis, covering environment configuration, package installation, and introductory CEA workflows.\n\n\nQuantitative Methods I — Center for Research and Teaching in Economics\n01/2021 – 07/2021 · Teaching Assistant\nInstructed a weekly two-hour class for undergraduate students covering the theory of statistical methods and practical applications in R.\n\n\nMethods for Public Policy Evaluation — Catholic University of Uruguay\n08/2019 – 07/2020 · Teaching Assistant\nAssisted a course in methods for public policy evaluation for the Winter School in Methods 2020, covering Difference-in-Differences, Matching, Instrumental Variables, etc."
   },
   {
     "objectID": "cv.html#leadership-initiative",
@@ -105,13 +119,6 @@
     "text": "Memberships\n\nDecision Analysis in R for Technologies in Health (DARTH) — Member, 2024 – Present\nSociety for Medical Decision Making (SMDM) — Member, 2023 – Present\nStanford Data Science x Decision Science [DS]² Research Hub — 2023 – Present\nStanford Impact Labs — 2025 – Present\nCancer Intervention and Surveillance Modeling Network (CISNET) — Gastric Cancer site — 2021 – Present\nCancer Intervention and Surveillance Modeling Network (CISNET) — Colorectal Cancer site — 2023 – Present"
   },
   {
-    "objectID": "cv.html#media-press",
-    "href": "cv.html#media-press",
-    "title": "Curriculum Vitae",
-    "section": "Media & Press",
-    "text": "Media & Press\n\n2021 — Homicidios en México: Su evolución en las últimas dos décadas (Policy Brief), Programa de Política de Drogas. Authored with Peralta, Y., Miranda, A., & Alarid-Escudero, A.\n2021 — La tendencia de los homicidios en México durante la pandemia por COVID-19 (Policy Brief), Programa de Política de Drogas. Authored with Peralta, Y. & Alarid-Escudero, A.\nJune 2021 — ¿Qué tan abiertos son los “datos abiertos” de vacunación en México?, Animal Político. Authored with Velázquez, S., Padilla, A., & Alarid-Escudero, F.\nJune 2020 — La geografía de la violencia, Animal Político.\nDecember 2020 — Analizando el indicador estatal covid de Aguascalientes, LJA.mx.\nDecember 2020 — De la corte a las calles, Animal Político.\n2020 — En México hay 148 grupos criminales: CIDE, El Financiero-Bloomberg TV. Interview\nApril 2021 — Operan en México hasta 148 cárteles, Reforma (printed). Interview\nApril 2021 — Análisis de los grupos delictivos en México, Mexican Institute of the Radio. Interview\nJuly 2021 — Los 12 grupos criminales de la era López Obrador, El País.\nMay 2021 — México: A tres semanas de las elecciones, los candidatos son víctimas de la violencia, Radio France International."
-  },
-  {
     "objectID": "cv.html#skills",
     "href": "cv.html#skills",
     "title": "Curriculum Vitae",
@@ -124,12 +131,5 @@
     "title": "Curriculum Vitae",
     "section": "Languages",
     "text": "Languages\n\nSpanish — Native\nEnglish — Fluent (TOEFL iBT 100)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jorge Alberto Roa Contreras",
-    "section": "",
-    "text": "Jorge Alberto Roa Contreras\nSoftware Developer · Data Scientist\nSoftware Developer Associate at Stanford University School of Medicine, building colorectal cancer simulation models for the CISNET program. MSc in Data Science for Public Policy from Hertie School Berlin, with a focus on cost-effectiveness analysis, decision modeling, and reproducible health policy software.\nSee full CV →"
   }
 ]
