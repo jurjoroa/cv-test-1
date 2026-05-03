@@ -36,8 +36,9 @@
 
 .home-photo {
   display: block;
-  width: 280px;
-  height: 380px;
+  width: 280px !important;
+  height: 380px !important;
+  max-width: none !important;
   object-fit: cover;
   border-radius: 14px;
   box-shadow: 0 8px 28px rgba(0, 0, 0, 0.10);
@@ -146,7 +147,7 @@
   }
 
   .home-photo {
-    width: 200px;
-    height: 270px;
+    width: 200px !important;
+    height: 270px !important;
   }
 }
